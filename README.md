@@ -15,4 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijith-appz&show_icons=true&locale=en&layout=compact" alt="abhijith-appz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijith-appz&show_icons=true&locale=en" alt="abhijith-appz" /></p>
-
